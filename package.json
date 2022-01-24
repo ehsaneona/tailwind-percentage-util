@@ -1,0 +1,27 @@
+{
+    "name": "tailwind-percentage-util",
+    "version": "1.0.0",
+    "description": "This plugin add a new utilities classes so you can use from 0% to 100%!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ehsaneona/tailwind-percentage-util.git"
+    },
+    "keywords": [
+        "tailwindcss",
+        "width",
+        "percentage",
+        "tailwind",
+        "plugin"
+    ],
+    "author": "Ehsan Akbarzadeh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ehsaneona/tailwind-percentage-util/issues"
+    },
+    "homepage": "https://github.com/ehsaneona/tailwind-percentage-util#readme",
+    "dependencies": {}
+}
